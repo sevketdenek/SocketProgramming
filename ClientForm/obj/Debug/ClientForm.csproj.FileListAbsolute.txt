@@ -1,0 +1,9 @@
+c:\users\sevket\documents\visual studio 2015\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\sevket\Documents\Visual Studio 2015\Projects\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
