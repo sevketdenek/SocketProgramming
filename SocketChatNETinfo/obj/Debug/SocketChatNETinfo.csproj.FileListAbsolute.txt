@@ -1,0 +1,6 @@
+c:\users\sevket\documents\visual studio 2015\Projects\SocketChatNETinfo\SocketChatNETinfo\bin\Debug\SocketChatNETinfo.exe.config
+c:\users\sevket\documents\visual studio 2015\Projects\SocketChatNETinfo\SocketChatNETinfo\bin\Debug\SocketChatNETinfo.exe
+c:\users\sevket\documents\visual studio 2015\Projects\SocketChatNETinfo\SocketChatNETinfo\bin\Debug\SocketChatNETinfo.pdb
+c:\users\sevket\documents\visual studio 2015\Projects\SocketChatNETinfo\SocketChatNETinfo\obj\Debug\SocketChatNETinfo.csprojResolveAssemblyReference.cache
+c:\users\sevket\documents\visual studio 2015\Projects\SocketChatNETinfo\SocketChatNETinfo\obj\Debug\SocketChatNETinfo.exe
+c:\users\sevket\documents\visual studio 2015\Projects\SocketChatNETinfo\SocketChatNETinfo\obj\Debug\SocketChatNETinfo.pdb
